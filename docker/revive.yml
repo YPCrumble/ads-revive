@@ -2,7 +2,7 @@ revive:
   build: ../docker
   container_name: revive
   ports:
-    - "8080:80"
+    - "80:80"
   volumes:
     - ./../app:/var/www/html
     - ./../server/nginx.conf:/etc/nginx/nginx.conf
