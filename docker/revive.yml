@@ -1,5 +1,5 @@
 revive:
-  build: ../app
+  build: ../docker
   container_name: revive
   ports:
     - "8080:80"
