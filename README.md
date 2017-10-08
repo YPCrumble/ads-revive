@@ -11,9 +11,11 @@ this is a project dockerizing revive ads server version 4.0.2
 ensure ./docker/entrypoint.sh has execution previeledges
 
 ## references
-**1**an example
+**1**. an example
 https://github.com/Delermando/docker-revive
 
-**2**building local images
+**2**. building local images
 https://stackoverflow.com/questions/46032392/docker-compose-doest-allow-to-use-local-images 
 
+**3**. mysql docker basic
+https://severalnines.com/blog/mysql-docker-containers-understanding-basics
