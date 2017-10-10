@@ -7,7 +7,7 @@ revive:
   volumes:
     - ./../app:/var/www/html
     - ./../log:/var/log/nginx
-    - ./../server/ssl.pem:/etc/ssl
+    - ./../server/ssl:/etc/ssl
     - ./../server/nginx.conf:/etc/nginx/nginx.conf
     - ./../server/ssl-ads-beritagar.id.conf:/etc/nginx/conf.d/ssl-ads-beritagar.id.conf
     - ./../server/ads-beritagar.id.conf:/etc/nginx/conf.d/ads-beritagar.id.conf
