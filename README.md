@@ -13,10 +13,10 @@ this is a project dockerizing revive ads server version 4.0.2
 2. docker-compose
 
 ## Installation
-> install docker
-> install docker-compose
-> clone repository
-> docker-compose up -d
+* install docker
+* install docker-compose
+* clone repository
+* docker-compose up -d
 
 ###### ensure ./docker/entrypoint.sh has execution previeledges
 
