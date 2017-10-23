@@ -6,8 +6,14 @@ this is a project dockerizing revive ads server version 4.0.2
 ## What is in the inside
 
 ## Requirements
+**1** docker
+**2** docker-compose
 
 ## Installation
+install docker
+install docker-compose
+clone repository
+docker-compose up -d
 ensure ./docker/entrypoint.sh has execution previeledges
 
 ## references
